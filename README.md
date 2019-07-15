@@ -1,13 +1,8 @@
-# :birthday: :pizza: birthday.pizza :birthday: :pizza:
-
-[![Build Status](https://travis-ci.org/kevinsawicki/birthday-pizza.svg)](https://travis-ci.org/kevinsawicki/birthday-pizza)
-
 The code for http://birthday.pizza
 
 To run locally:
 
-```sh
-git clone https://github.com/kevinsawicki/birthday-pizza.git
+clone
 cd birthday-pizza
 npm install
 npm start
